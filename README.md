@@ -1,3 +1,4 @@
+
 # React_TodoApp
 A modern and responsive To-Do List app built using React. This app allows users to add, mark as completed, delete, and filter tasks. It features a clean and stylish user interface with light/dark mode toggle and saves tasks in the browser using localStorage for persistence.
 
@@ -42,5 +43,4 @@ cd react-todo-app
 -The app uses localStorage, so tasks remain saved even after refreshing or closing the browser.
 -Toggle between Light and Dark mode using the ☀️/🌙 button.
 -Clean and animated UI to enhance user experience.
-
 
